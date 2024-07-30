@@ -74,6 +74,9 @@
 
         width: 55%;
     }
+    .sales img{
+        right:25px;
+    }
 
     .stat {
         width: 100%;

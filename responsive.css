@@ -142,9 +142,12 @@
         width: 95%;
 
     }
+     .heading-r h2{
+         font-size: 1.3rem;
+    }
 
     .divs {
-        width: 45%;
+        width: 50%;
 
     }
 

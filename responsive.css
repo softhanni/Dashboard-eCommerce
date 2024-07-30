@@ -38,7 +38,10 @@
     .setting-btn {
         display: none;
     }
+.exp-det p {
 
+font-size: 1rem
+}    
     .main {
         width: 100%;
     }

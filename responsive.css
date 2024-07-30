@@ -1,0 +1,238 @@
+@media only screen and (max-width: 600px) {
+
+    .side-bar {
+
+        width: 65%;
+        z-index: 20;
+        left: -300px;
+    }
+
+    #change-icon {
+        font-size: 1.3rem;
+    }
+
+    .blur {
+        background-color: rgba(0, 0, 0, 0.4);
+        width: 100vw;
+        height: 100vh;
+        z-index: 15;
+        /* position: fixed; */
+
+    }
+
+    #more {
+        display: block;
+        margin-right: 10px;
+    }
+
+    .profile {
+        align-items: center;
+        width: 205px;
+    }
+
+    .search input {
+        display: none;
+    }
+
+
+    .setting-btn {
+        display: none;
+    }
+
+    .main {
+        width: 100%;
+    }
+
+    .main-container {
+        width: 95%;
+    }
+
+    .search-bar {
+        width: 92%;
+        top: 15px;
+
+    }
+
+    .cont1 {
+        width: 97%;
+        height: 10%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 95px;
+
+    }
+
+    .sales {
+        width: 100%;
+        height: 46%;
+        justify-content: space-between;
+    }
+
+
+    .sales-det {
+
+        width: 55%;
+    }
+
+    .stat {
+        width: 100%;
+        align-items: baseline;
+        height: 48%;
+    }
+
+    .stat-det {
+        width: 80%;
+        height: 140px;
+        display: grid;
+        justify-content: space-between;
+        margin-left: 20px;
+        grid-template-columns: auto auto;
+    }
+
+    .report {
+        justify-content: center;
+    }
+
+    .report-chart {
+        width: 125px;
+        height: 125px;
+    }
+
+    .cont2 {
+        width: 97%;
+        height: 50%;
+        flex-direction: column;
+    }
+
+    .profit {
+        width: 100%;
+        height: 50%;
+    }
+
+    .exp {
+        width: 100%;
+        height: 45%;
+    }
+
+    .cont3 {
+        width: 97%;
+        height: 22%;
+    }
+
+    .cont4 {
+        width: 97%;
+        height: 65%;
+
+        flex-direction: column;
+    }
+
+    .revenue {
+        width: 100%;
+        height: 75%;
+
+    }
+
+    .heading-r {
+        width: 95%;
+
+    }
+
+    .divs {
+        width: 45%;
+
+    }
+
+    .x {
+        height: 75%;
+
+    }
+
+    .y {
+
+        margin-left: 60px;
+    }
+
+    .graph-divs {
+        top: -260px;
+        left: 60px;
+    }
+
+    .v-divs div {
+        width: 10px;
+    }
+
+    .revenue-det {
+        width: 100%;
+        height: 70%;
+        border-top: 0.1px solid rgba(0, 0, 0, 0.3);
+    }
+
+    .content-r {
+        width: 100%;
+        height: 100%;
+
+    }
+
+    .cont5 {
+        width: 97%;
+        height: 1200px;
+        flex-direction: column;
+    }
+
+    .e-r {
+        width: 100%;
+        height: 670px;
+    }
+
+    .eps {
+        height: 170px;
+        width: 90%;
+
+    }
+
+    .ep2 {
+        width: 35%;
+
+    }
+
+
+    .p-p {
+        width: 100%;
+        height: 60%;
+        margin-top: 25px;
+    }
+
+
+    .cont6 {
+        height: 1200px;
+        flex-direction: column;
+    }
+
+    .o-c {
+        width: 100%;
+        height: 520px;
+
+    }
+
+    .trans {
+        width: 100%;
+        height: 550px;
+        margin-top: 25px;
+    }
+
+    .cont7 {
+        display: none;
+    }
+
+    .copyright {
+        height: 8%;
+        font-size: 1rem;
+    }
+
+
+
+
+
+
+}
